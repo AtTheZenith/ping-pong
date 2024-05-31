@@ -21,4 +21,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 
-# This project was documented using Cody
+This project was documented using Cody
