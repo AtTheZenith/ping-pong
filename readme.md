@@ -15,10 +15,8 @@ This is a simple implementation of the classic Ping Pong game using Python's tur
 - Python 3.x
 - `turtle` (built-in Python library)
 
-## License
+## Extra
 
 This project is licensed under the [MIT License](LICENSE).
-
-
 
 This project was documented using Cody
